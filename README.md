@@ -1,4 +1,6 @@
-# Getting the ML models
+# Weather-Power Consumption Prediction Project
+
+This project uses machine learning models to predict temperature, humidity, wind speed, based on weather data and then use that to predict power consumption.
 
 
 1. Configure the Environment
